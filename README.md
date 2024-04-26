@@ -5,7 +5,7 @@
 <p>This is an archive of the SCOP2 release from 29-06-2022 produced at MRC Laboratory of Molecular Biology.</p>
 <p>Content:</p>
 <p>SCOP2 release 29-06-2022 parseable files.</p> 
-<p>SCOP2 mysql production database.</p>
+<p>SCOP2 release 29-06-2022 mysql production database.</p>
 <p></p>
 
 <p>If you find these data useful please cite:</p>
